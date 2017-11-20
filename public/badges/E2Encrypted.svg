@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="20">
+  <linearGradient id="appleTart">
+    <stop stop-color="#44d588" offset="0%"/><stop stop-color="#a4e13c" offset="100%"/>
+  </linearGradient>
+  <rect rx="3" width="102" height="20" fill="#313037"/>
+  <rect rx="3" x="32" width="71" height="20" fill="url(#appleTart)"/>
+  <path fill="#44d588" d="M32 0h4v20h-4z"/>
+  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Ubuntu, Cantarell, Oxygen, Roboto, sans-serif" font-size="11" font-weight="bold">
+    <text x="16" y="15" fill="#010101" fill-opacity=".3">e2e</text><text x="16" y="14">e2e</text>
+    <text x="66" y="15" fill="#010101" fill-opacity=".3">encrypted</text><text x="66" y="14">encrypted</text>
+  </g>
+</svg>
