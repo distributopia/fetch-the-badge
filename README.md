@@ -15,6 +15,7 @@ _*"hacking for freedom" - taken from [FSFE's](https://fsfe.org/contribute/spread
 
 
 ## How to use
+
 Demo page is currently hosted by GitLab pages. Extensive use of badges as <img> sources might be regarded as hotlinking, so we wouldn't encourage it. You can grab SVGs from [badges](/badges) folder and host them somewhere.
 
 If you wish to use a badge on your website page, and not on a GitHub repo, insert SVG directly into your HTML.
