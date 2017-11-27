@@ -6,7 +6,7 @@
   <rect rx="3" width="95" height="20" fill="#313037"/>
   <rect rx="3" x="32" width="64" height="20" fill="url(#dewBerry)"/>
   <path fill="#5341b3" d="M32 0h4v20h-4z"/>
-  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Ubuntu, Cantarell, Oxygen, Roboto, sans-serif" font-size="11" font-weight="bold">
+  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Oxygen, DejaVu Sans, Geneva, Roboto, sans-serif" font-size="11" font-weight="bold">
     <text x="16" y="15" fill="#010101" fill-opacity=".3">we</text><text x="16" y="14">we</text>
     <text x="63" y="15" fill="#010101" fill-opacity=".3">federate</text><text x="63" y="14">federate</text>
   </g>

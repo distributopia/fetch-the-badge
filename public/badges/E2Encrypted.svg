@@ -6,7 +6,7 @@
   <rect rx="3" width="102" height="20" fill="#313037"/>
   <rect rx="3" x="32" width="71" height="20" fill="url(#appleTart)"/>
   <path fill="#1dc96e" d="M32 0h4v20h-4z"/>
-  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Ubuntu, Cantarell, Oxygen, Roboto, sans-serif" font-size="11" font-weight="bold">
+  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Oxygen, DejaVu Sans, Geneva, Roboto, sans-serif" font-size="11" font-weight="bold">
     <text x="16" y="15" fill="#010101" fill-opacity=".3">e2e</text><text x="16" y="14">e2e</text>
     <text x="66" y="15" fill="#010101" fill-opacity=".3">encrypted</text><text x="66" y="14">encrypted</text>
   </g>

@@ -6,7 +6,7 @@
   <rect rx="3" width="153" height="20" fill="#313037"/>
   <rect rx="3" x="80" width="74" height="20" fill="url(#limeJam)"/>
   <path fill="#3ce021" d="M80 0h4v20h-4z"/>
-  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Ubuntu, Cantarell, Oxygen, Roboto, sans-serif" font-size="11" font-weight="bold">
+  <g fill="#fff" text-anchor="middle" font-family="Open Sans, Oxygen, DejaVu Sans, Geneva, Roboto, sans-serif" font-size="11" font-weight="bold">
     <text x="39.5" y="15" fill="#010101" fill-opacity=".3">open source</text><text x="39.5" y="14">open source</text>
     <text x="116.5" y="15" fill="#010101" fill-opacity=".3">for the win</text><text x="116.5" y="14">for the win</text>
   </g>
