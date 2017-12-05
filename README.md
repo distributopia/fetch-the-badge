@@ -23,4 +23,4 @@ If you wish to use a badge on your website page, and not on a GitHub repo, inser
 
 Don't hesitate to suggest text for new badges in issues or via merge requests in the main [GitLab](https://gitlab.com/distributopia/fetch-the-badge) repo. In case of MR, please, also include a new gradient for your badge.
 
-Please, try to avoid mainstream badge texts. For fun badges go [here](https://forthebadge.com). For common badges go [there](https://shields.io).
+Please, try to avoid mainstream badge texts. For fun badges go [here](https://forthebadge.com). For common badges go [there](https://shields.io). Also check out [ethical design](https://ind.ie/ethical-design) badges.
